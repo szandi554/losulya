@@ -1,5 +1,5 @@
 /*
-* File: App.java
+* File: Main.java
 * Author: Siegenthaler Alexandra 
 * Copyright: 2026, Siegenthaler Alexandra 
 * Group: Szoft II/2/E
